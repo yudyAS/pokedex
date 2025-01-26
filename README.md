@@ -96,6 +96,11 @@ Caso tenha dúvidas ou sugestões, entre em contato:
 - *Email*: yudyantunes123@gmail.com
 - *GitHub*: [yudyAS](https://github.com/yudyAS)
 
+## Imagem Ilustrativa
+<div align = "center">
+  <img src="https://github.com/user-attachments/assets/2ac1c30a-91b2-4fc9-be34-9fc2d57f480a" width="700px"/>
+</div>
+
 # Pokedex
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.6.
