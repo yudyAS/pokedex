@@ -1,18 +1,22 @@
 # Pokédex - Projeto em Angular 19
 
 ## Sobre o Projeto
-Este é um projeto de Pokédex desenvolvido utilizando *Angular 19*. Ele permite visualizar informações detalhadas sobre diferentes Pokémons, consumindo dados de uma API. O objetivo principal é proporcionar uma experiência intuitiva e interativa para os usuários explorarem o universo dos Pokémons.
+Este é um projeto de Pokédex desenvolvido utilizando *Angular 19*. Ele permite visualizar diferentes Pokémons, consumindo dados de uma API. O objetivo principal é proporcionar uma experiência intuitiva e interativa para os usuários explorarem o universo dos Pokémons.
 
 ## Funcionalidades
 - Listagem de Pokémons com paginção.
-- Busca de Pokémons por nome ou ID.
 - Detalhes de cada Pokémon, incluindo:
   - Nome
   - Imagem
-  - Tipos
-  - Habilidades
-  - Estatísticas base
 - Interface responsiva para dispositivos móveis e desktops.
+
+## Imagem Ilustrativa
+<div align = "center">
+  <img src="https://github.com/user-attachments/assets/2ac1c30a-91b2-4fc9-be34-9fc2d57f480a" width="700px"/>
+</div>
+
+#### Link:
+https://pokemon-pokedex-yudy.netlify.app/
 
 ## Tecnologias Utilizadas
 
@@ -96,10 +100,7 @@ Caso tenha dúvidas ou sugestões, entre em contato:
 - *Email*: yudyantunes123@gmail.com
 - *GitHub*: [yudyAS](https://github.com/yudyAS)
 
-## Imagem Ilustrativa
-<div align = "center">
-  <img src="https://github.com/user-attachments/assets/2ac1c30a-91b2-4fc9-be34-9fc2d57f480a" width="700px"/>
-</div>
+
 
 # Pokedex
 
